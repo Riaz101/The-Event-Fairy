@@ -33,7 +33,7 @@
     "react-dom": "^18",
     "react-hook-form": "^7.49.2",
     "stripe": "^14.11.0",
-    "svix": "^1.15.0",
+    "svix": "^1.16.0",
     "tailwind-merge": "^2.2.0",
     "tailwindcss-animate": "^1.0.7",
     "uploadthing": "^6.1.1",
